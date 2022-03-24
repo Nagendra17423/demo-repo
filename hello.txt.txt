@@ -1,1 +1,2 @@
-hello guys some random text file plzz ignore
+hello guys some random text file plzz ignore.
+adding some text for second commit.
